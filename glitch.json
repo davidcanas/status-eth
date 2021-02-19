@@ -1,0 +1,4 @@
+{
+  "install": "echo 'No install needed'",
+  "start": "php -S 0.0.0.0:${PORT} -t public"
+}
